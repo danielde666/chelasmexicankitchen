@@ -129,9 +129,7 @@
       },
       "header": {
         "type": "header",
-        "custom_css": [
-          ".header-wrapper {background-color: transparent !important; margin-bottom: -160px;}"
-        ],
+        "custom_css": [],
         "settings": {
           "color_scheme": "inverse",
           "logo": "shopify://shop_images/logo2.png",
