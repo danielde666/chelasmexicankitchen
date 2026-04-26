@@ -355,8 +355,8 @@
         "heading_KWUr34": {
           "type": "heading",
           "settings": {
-            "heading": "<h4><strong>ATTENTION CUSTOMERS WITH FOOD ALLERGIES</strong></h4>",
-            "heading_size": "h2"
+            "heading": "<h6>ATTENTION CUSTOMERS WITH FOOD ALLERGIES</h6>",
+            "heading_size": "hxl"
           }
         },
         "text_NBjQbN": {
