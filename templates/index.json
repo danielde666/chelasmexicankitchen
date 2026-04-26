@@ -64,6 +64,63 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "multicolumn_XwxYgQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BCP8TK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_San_Clemente_Mexican_Food.jpg",
+            "title": "View Our 3 Locations",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Find your location",
+            "link": "shopify://pages/menu"
+          }
+        },
+        "column_PfPMRA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_San_Clemente_with_Real_Ingredients.jpg",
+            "title": "Explore Our Menus",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Our Menus",
+            "link": "shopify://pages/menu"
+          }
+        },
+        "column_mHLtVX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Date_Night.jpg",
+            "title": "Order Online",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Order online now",
+            "link": "shopify://pages/menu"
+          }
+        }
+      },
+      "block_order": [
+        "column_BCP8TK",
+        "column_PfPMRA",
+        "column_mHLtVX"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "ORDER ONLINE",
+        "button_link": "shopify://pages/menu",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -382,6 +439,7 @@
   },
   "order": [
     "slideshow_hF6Jqt",
+    "multicolumn_XwxYgQ",
     "rich_text",
     "image_with_text_qeNQVj",
     "image_with_text_9ETabx",
