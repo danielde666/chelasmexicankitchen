@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/pic2.jpg",
             "heading": "Chelas Mexican Kitchen",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "YOUR ELEVATED FAST CASUAL MEXICAN RESTAURANT",
             "button_label": "ORDER ONLINE",
             "link": "shopify://pages/menu",
@@ -27,7 +27,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 40,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         },
         "slide_Pcg8cj": {
@@ -35,7 +35,7 @@
           "settings": {
             "image": "shopify://shop_images/pic3.jpg",
             "heading": "Viva el Sabor",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "LET US ELEVATE YOUR DINING EXPERIENCE.",
             "button_label": "OUR LOCATIONS",
             "link": "shopify://pages/our-story",
@@ -45,7 +45,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 50,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         }
       },
