@@ -27,7 +27,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 40,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         },
         "slide_Pcg8cj": {
@@ -45,7 +45,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 50,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         },
         "slide_mJBVRQ": {
@@ -63,7 +63,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 50,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         }
       },
@@ -96,16 +96,6 @@
             "link": "shopify://pages/menu"
           }
         },
-        "column_PfPMRA": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_San_Clemente_with_Real_Ingredients.jpg",
-            "title": "Explore Our Menus",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "Our Menus",
-            "link": "shopify://pages/menu"
-          }
-        },
         "column_mHLtVX": {
           "type": "column",
           "settings": {
@@ -115,12 +105,22 @@
             "link_label": "Order online now",
             "link": "shopify://pages/menu"
           }
+        },
+        "column_PfPMRA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_San_Clemente_with_Real_Ingredients.jpg",
+            "title": "Explore Our Menus",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Our Menus",
+            "link": "shopify://pages/menu"
+          }
         }
       },
       "block_order": [
         "column_BCP8TK",
-        "column_PfPMRA",
-        "column_mHLtVX"
+        "column_mHLtVX",
+        "column_PfPMRA"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -146,7 +146,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Chelas Mexican Kitchen - <em>Viva el Sabor</em></p>",
+            "heading": "<p>Chelas Mexican Kitchen <em>Viva el Sabor</em></p>",
             "heading_size": "h2"
           }
         },
@@ -173,10 +173,18 @@
     "image_with_text_qeNQVj": {
       "type": "image-with-text",
       "blocks": {
+        "caption_DD6VeW": {
+          "type": "caption",
+          "settings": {
+            "caption": "San Clemente",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "heading_z8JVDe": {
           "type": "heading",
           "settings": {
-            "heading": "VISIT CMK OR ORDER ONLINE - AVENIDA PICO",
+            "heading": "Avenida Pico",
             "heading_size": "h2"
           }
         },
@@ -196,6 +204,7 @@
         }
       },
       "block_order": [
+        "caption_DD6VeW",
         "heading_z8JVDe",
         "text_aQpcAB",
         "button_ETDFzG"
@@ -210,7 +219,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 100,
         "padding_bottom": 0
       }
@@ -218,10 +227,18 @@
     "image_with_text_9ETabx": {
       "type": "image-with-text",
       "blocks": {
+        "caption_pnEHFf": {
+          "type": "caption",
+          "settings": {
+            "caption": "San Clemente",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "heading_KYFrLV": {
           "type": "heading",
           "settings": {
-            "heading": "VISIT CMK OR ORDER ONLINE - CAMINO DE LOS MARES",
+            "heading": "Camino De Los Mares",
             "heading_size": "h2"
           }
         },
@@ -241,6 +258,7 @@
         }
       },
       "block_order": [
+        "caption_pnEHFf",
         "heading_KYFrLV",
         "text_8eTm8M",
         "button_c94QrW"
@@ -255,7 +273,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -263,10 +281,18 @@
     "image_with_text_4dQDAy": {
       "type": "image-with-text",
       "blocks": {
+        "caption_nkjRpY": {
+          "type": "caption",
+          "settings": {
+            "caption": "Laguna Beach",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "heading_dhPfBy": {
           "type": "heading",
           "settings": {
-            "heading": "VISIT CMK OR ORDER ONLINE - LAGUNA BEACH",
+            "heading": "North Coast Highway",
             "heading_size": "h2"
           }
         },
@@ -286,6 +312,7 @@
         }
       },
       "block_order": [
+        "caption_nkjRpY",
         "heading_dhPfBy",
         "text_c3H7C6",
         "button_K9Yqtt"
@@ -300,38 +327,58 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
-        "padding_bottom": 100
+        "padding_bottom": 80
       }
     },
-    "image_with_text_TTh7BC": {
-      "type": "image-with-text",
+    "image_banner_NAQN6U": {
+      "type": "image-banner",
       "blocks": {
-        "heading_RPzpTn": {
+        "heading_QRjGBg": {
           "type": "heading",
           "settings": {
-            "heading": "CHELAS MEXICAN KITCHEN…IT'S MORE THAN JUST THE FOOD!",
+            "heading": "Chela's Mexican Kitchen",
             "heading_size": "h1"
+          }
+        },
+        "text_87aLjf": {
+          "type": "text",
+          "settings": {
+            "text": "IT'S MORE THAN JUST THE FOOD!",
+            "text_style": "body"
+          }
+        },
+        "buttons_8KRwfF": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Order Online",
+            "button_link_1": "shopify://pages/menu",
+            "button_style_secondary_1": false,
+            "button_label_2": "Catering Menu",
+            "button_link_2": "shopify://pages/catering-menu",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_RPzpTn"
+        "heading_QRjGBg",
+        "text_87aLjf",
+        "buttons_8KRwfF"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Chelas_Mexican_Kitchen_Flowers.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
+        "image": "shopify://shop_images/Best_Mexican_Food_for_Halloween_in_Laguna_Beach_for_Halloween_Parties.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "featured_product_DkAHin": {
@@ -463,7 +510,7 @@
     "image_with_text_qeNQVj",
     "image_with_text_9ETabx",
     "image_with_text_4dQDAy",
-    "image_with_text_TTh7BC",
+    "image_banner_NAQN6U",
     "featured_product_DkAHin",
     "custom_liquid_bV67Eq",
     "custom_liquid_GXmmWG",
