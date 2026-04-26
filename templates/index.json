@@ -1,1 +1,395 @@
-{"sections":{"slideshow_hF6Jqt":{"type":"slideshow","blocks":{"slide_RpcM36":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pic2.jpg","heading":"Chelas Mexican Kitchen","heading_size":"h1","subheading":"YOUR ELEVATED FAST CASUAL MEXICAN RESTAURANT","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"slide_Pcg8cj":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pic3.jpg","heading":"Viva el Sabor","heading_size":"h1","subheading":"LET US ELEVATE YOUR DINING EXPERIENCE.","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["slide_RpcM36","slide_Pcg8cj"],"name":"t:sections.slideshow.presets.name","settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"counter","auto_rotate":true,"change_slides_speed":5,"show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"rich_text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"<p>Chelas Mexican Kitchen - Viva el Sabor<\/p>","heading_size":"h2"}},"text":{"type":"text","settings":{"text":"<p>Where traditional, authentic recipes are prepared using only the freshest ingredients and are served in a elevated, casual setting. Design, creativity, and a passion for food are at the heart of each dish.<\/p>"}}},"block_order":["heading","text"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":0}},"image_with_text_qeNQVj":{"type":"image-with-text","blocks":{"heading_z8JVDe":{"type":"heading","settings":{"heading":"VISIT CMK OR ORDER ONLINE - AVENIDA PICO","heading_size":"h2"}},"text_aQpcAB":{"type":"text","settings":{"text":"<p>1011 Avenida Pico, Unit C<br\/>San Clemente, CA 92673<br\/><br\/><strong>Phone:<\/strong> (949) 542-4606<br\/><br\/><strong>Hours: <\/strong>M-F 10 am - 9 pm \/ Saturday and Sunday 9 am - 9 pm<\/p>","text_style":"body"}},"button_ETDFzG":{"type":"button","settings":{"button_label":"Order Online or Call (949) 542-4606 for assistance","button_link":"https:\/\/www.clover.com\/online-ordering\/chelas-mexican-avenida-san-clemente"}}},"block_order":["heading_z8JVDe","text_aQpcAB","button_ETDFzG"],"name":"t:sections.image-with-text.presets.name","settings":{"image":"shopify:\/\/shop_images\/restaurant.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"image_with_text_9ETabx":{"type":"image-with-text","blocks":{"heading_KYFrLV":{"type":"heading","settings":{"heading":"VISIT CMK OR ORDER ONLINE - CAMINO DE LOS MARES","heading_size":"h2"}},"text_8eTm8M":{"type":"text","settings":{"text":"<p>635 Camino De Los Mares<br\/>San Clemente, CA 92673<\/p><p><strong>Phone: <\/strong>(949) 312-2401<\/p><p><strong>Hours: <\/strong>M-F 10 am - 9 pm \/ Saturday and Sunday 9am-9pm<\/p>","text_style":"body"}},"button_c94QrW":{"type":"button","settings":{"button_label":"Order Online or Call (949) 312-2401 for assistance","button_link":"https:\/\/www.clover.com\/online-ordering\/chelas-mexican-camino-san-clemente"}}},"block_order":["heading_KYFrLV","text_8eTm8M","button_c94QrW"],"name":"t:sections.image-with-text.presets.name","settings":{"image":"shopify:\/\/shop_images\/newlocation.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"image_with_text_4dQDAy":{"type":"image-with-text","blocks":{"heading_dhPfBy":{"type":"heading","settings":{"heading":"VISIT CMK OR ORDER ONLINE - LAGUNA BEACH","heading_size":"h2"}},"text_c3H7C6":{"type":"text","settings":{"text":"<p>412 N. Coast Hwy<br\/>Laguna Beach, CA 92651<\/p><p><strong>Phone: <\/strong>(949) 549-4353<\/p><p><strong>Hours: <\/strong>Daily Hours 10 am - 8 pm<\/p>","text_style":"body"}},"button_K9Yqtt":{"type":"button","settings":{"button_label":"Order Online or Call  (949) 549-4353 for assistance","button_link":"https:\/\/www.clover.com\/online-ordering\/chelas-mexican-coast-hwy-laguna-beach"}}},"block_order":["heading_dhPfBy","text_c3H7C6","button_K9Yqtt"],"name":"t:sections.image-with-text.presets.name","settings":{"image":"shopify:\/\/shop_images\/cmk_LagunaBeach.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"image_with_text_TTh7BC":{"type":"image-with-text","blocks":{"heading_RPzpTn":{"type":"heading","settings":{"heading":"CHELAS MEXICAN KITCHEN…IT'S MORE THAN JUST THE FOOD!","heading_size":"h1"}}},"block_order":["heading_RPzpTn"],"name":"t:sections.image-with-text.presets.name","settings":{"image":"shopify:\/\/shop_images\/Chelas_Mexican_Kitchen_Flowers.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"featured_product_DkAHin":{"type":"featured-product","blocks":{"text_EPWLJy":{"type":"text","settings":{"text":"{{ section.settings.product.vendor }}","text_style":"uppercase"}},"title_QfMEDQ":{"type":"title","settings":{"heading_size":"h1"}},"text_a9a4RV":{"type":"text","settings":{"text":"{{ section.settings.product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"price_Jk93iw":{"type":"price","settings":{}},"variant_picker_4H64pX":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector_KrryH4":{"type":"quantity_selector","settings":{}},"buy_buttons_ED8CzV":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"share_KTepdh":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["text_EPWLJy","title_QfMEDQ","text_a9a4RV","price_Jk93iw","variant_picker_4H64pX","quantity_selector_KrryH4","buy_buttons_ED8CzV","share_KTepdh"],"name":"t:sections.featured-product.presets.name","settings":{"product":"loopz-gift-card","color_scheme":"background-1","secondary_background":false,"hide_variants":false,"enable_video_looping":false,"padding_top":36,"padding_bottom":36}},"custom_liquid_bV67Eq":{"type":"custom-liquid","name":"t:sections.custom-liquid.presets.name","settings":{"custom_liquid":"<div align=\"center\">\n<link href=\"https:\/\/awards.infcdn.net\/r_rcm.css\" rel=\"stylesheet\">\n<div id=\"r-rcm\" data=\"29\" class=\" r-rcm_black \" onclick=\"if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.rest-white_center').href);return 0;}\"> <a href=\"https:\/\/restaurantguru.com\/Chelas-Mexican-Kitchen-San-Clemente\" class=\"r-rcm_r-link\" target=\"_blank\">Chelas Mexican Kitchen<\/a> <div class=\"r-rcm_year\">2023<\/div> <div class=\"r-rcm_bottom \"> <span class=\"r-rcm_str1 \">Recommended<\/span> <\/div> <div class=\"r-rcm_heading\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" width=\"144px\" height=\"144px\" viewbox=\"0 0 144 144\"> <defs> <path id=\"r-rcm-arc\" d=\"M 12 72 a 60 60 0 0 0 120 0\"><\/path> <\/defs> <text class=\"r-rcm_heading__bottom \" fill=\"#fff\" text-anchor=\"middle\"> <textpath startoffset=\"50%\" xlink:href=\"#r-rcm-arc\"><a href=\"https:\/\/restaurantguru.com\/\" class=\"r-rcm_heading__link\">Restaurant Guru<\/a><\/textpath> <\/text> <\/svg> <\/div>\n<\/div>\n<\/div>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}},"custom_liquid_GXmmWG":{"type":"custom-liquid","name":"t:sections.custom-liquid.presets.name","settings":{"custom_liquid":"<div align=\"center\">\n<link href=\"https:\/\/cdn6.localdatacdn.com\/badges\/restaurantji\/css\/circle_v5.css?v=94984\" rel=\"stylesheet\">\n<div id=\"circle_v5_wrap\"><div id=\"circle_v5\" tabindex=\"0\">\n<a href=\"https:\/\/www.restaurantji.com\/ca\/san-clemente\/chelas-mexican-kitchen-\/\" id=\"circletype_v5_brand_name\" class=\"autoFontSize\"><div class=\"ahref_emprty_area\">Chelas Mexican Kitchen<\/div>\n<hr id=\"restaurantji_badge_separator\">\n<div class=\"circle_badge_category\">Mexican<\/div><\/a><a href=\"https:\/\/www.restaurantji.com\" target=\"_blank\" id=\"rewards_link\">Restaurantji<\/a>\n<\/div><\/div>\n<script>function calculateFontSize(width, height, content){var area=width * height; var contentLength=content.length; return Math.sqrt(area \/ contentLength);}circletype_v5_brand_name.style.fontSize=calculateFontSize(circletype_v5_brand_name.offsetWidth \/ 1.5, circletype_v5_brand_name.offsetHeight \/ 1.5, circletype_v5_brand_name.querySelector('.ahref_emprty_area').innerText) + 'px';const size = calculateFontSize(circletype_v5_brand_name.offsetWidth \/ 2, circletype_v5_brand_name.offsetHeight \/ 2, circletype_v5_brand_name.querySelector('.circle_badge_category').innerText);circletype_v5_brand_name.querySelector('.circle_badge_category').style.fontSize= size > 16 ? 16 : size + 'px';\n<\/script>\n<\/div>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}},"rich_text_8ty4Ew":{"type":"rich-text","blocks":{"heading_KWUr34":{"type":"heading","settings":{"heading":"<h4><strong>ATTENTION CUSTOMERS WITH FOOD ALLERGIES<\/strong><\/h4>","heading_size":"h2"}},"text_NBjQbN":{"type":"text","settings":{"text":"<p>Please be aware that our food may contain or come into contact with common allergens, such as dairy, eggs, wheat, soybeans, tree nuts, peanuts, fish, shellfish or wheat. While we take steps to minimize risk and safely handle the foods that contain potential allergens, please be advised that cross contamination may occur, as factors beyond our reasonable control may alter the formulations of the food we serve, or manufacturers may change their formulations without our knowledge. Our facilities are not food allergen or gluten-free. Customers with food allergies or other nutritional concerns are advised to notify a restaurant manager for assistance. Additional information or support and may be reached at <a href=\"mailto:echelas@chelasmexkitchen.com\">chelas@chelasmexkitchen.com.<\/a><\/p>"}}},"block_order":["heading_KWUr34","text_NBjQbN"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":0}}},"order":["slideshow_hF6Jqt","rich_text","image_with_text_qeNQVj","image_with_text_9ETabx","image_with_text_4dQDAy","image_with_text_TTh7BC","featured_product_DkAHin","custom_liquid_bV67Eq","custom_liquid_GXmmWG","rich_text_8ty4Ew"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_hF6Jqt": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_RpcM36": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/pic2.jpg",
+            "heading": "Chelas Mexican Kitchen",
+            "heading_size": "h1",
+            "subheading": "YOUR ELEVATED FAST CASUAL MEXICAN RESTAURANT",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_Pcg8cj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/pic3.jpg",
+            "heading": "Viva el Sabor",
+            "heading_size": "h1",
+            "subheading": "LET US ELEVATE YOUR DINING EXPERIENCE.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_RpcM36",
+        "slide_Pcg8cj"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Chelas Mexican Kitchen - Viva el Sabor</p>",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Where traditional, authentic recipes are prepared using only the freshest ingredients and are served in a elevated, casual setting. Design, creativity, and a passion for food are at the heart of each dish.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_qeNQVj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_z8JVDe": {
+          "type": "heading",
+          "settings": {
+            "heading": "VISIT CMK OR ORDER ONLINE - AVENIDA PICO",
+            "heading_size": "h2"
+          }
+        },
+        "text_aQpcAB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>1011 Avenida Pico, Unit C<br/>San Clemente, CA 92673<br/><br/><strong>Phone:</strong> (949) 542-4606<br/><br/><strong>Hours: </strong>M-F 10 am - 9 pm / Saturday and Sunday 9 am - 9 pm</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ETDFzG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order Online or Call (949) 542-4606 for assistance",
+            "button_link": "https://www.clover.com/online-ordering/chelas-mexican-avenida-san-clemente"
+          }
+        }
+      },
+      "block_order": [
+        "heading_z8JVDe",
+        "text_aQpcAB",
+        "button_ETDFzG"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/restaurant.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_9ETabx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KYFrLV": {
+          "type": "heading",
+          "settings": {
+            "heading": "VISIT CMK OR ORDER ONLINE - CAMINO DE LOS MARES",
+            "heading_size": "h2"
+          }
+        },
+        "text_8eTm8M": {
+          "type": "text",
+          "settings": {
+            "text": "<p>635 Camino De Los Mares<br/>San Clemente, CA 92673</p><p><strong>Phone: </strong>(949) 312-2401</p><p><strong>Hours: </strong>M-F 10 am - 9 pm / Saturday and Sunday 9am-9pm</p>",
+            "text_style": "body"
+          }
+        },
+        "button_c94QrW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order Online or Call (949) 312-2401 for assistance",
+            "button_link": "https://www.clover.com/online-ordering/chelas-mexican-camino-san-clemente"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KYFrLV",
+        "text_8eTm8M",
+        "button_c94QrW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/newlocation.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_4dQDAy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dhPfBy": {
+          "type": "heading",
+          "settings": {
+            "heading": "VISIT CMK OR ORDER ONLINE - LAGUNA BEACH",
+            "heading_size": "h2"
+          }
+        },
+        "text_c3H7C6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>412 N. Coast Hwy<br/>Laguna Beach, CA 92651</p><p><strong>Phone: </strong>(949) 549-4353</p><p><strong>Hours: </strong>Daily Hours 10 am - 8 pm</p>",
+            "text_style": "body"
+          }
+        },
+        "button_K9Yqtt": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order Online or Call  (949) 549-4353 for assistance",
+            "button_link": "https://www.clover.com/online-ordering/chelas-mexican-coast-hwy-laguna-beach"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dhPfBy",
+        "text_c3H7C6",
+        "button_K9Yqtt"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/cmk_LagunaBeach.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_TTh7BC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RPzpTn": {
+          "type": "heading",
+          "settings": {
+            "heading": "CHELAS MEXICAN KITCHEN…IT'S MORE THAN JUST THE FOOD!",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RPzpTn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Chelas_Mexican_Kitchen_Flowers.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_DkAHin": {
+      "type": "featured-product",
+      "blocks": {
+        "text_EPWLJy": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_QfMEDQ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "text_a9a4RV": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price_Jk93iw": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_4H64pX": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_KrryH4": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_ED8CzV": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_KTepdh": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_EPWLJy",
+        "title_QfMEDQ",
+        "text_a9a4RV",
+        "price_Jk93iw",
+        "variant_picker_4H64pX",
+        "quantity_selector_KrryH4",
+        "buy_buttons_ED8CzV",
+        "share_KTepdh"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "loopz-gift-card",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_bV67Eq": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div align=\"center\">\n<link href=\"https://awards.infcdn.net/r_rcm.css\" rel=\"stylesheet\">\n<div id=\"r-rcm\" data=\"29\" class=\" r-rcm_black \" onclick=\"if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.rest-white_center').href);return 0;}\"> <a href=\"https://restaurantguru.com/Chelas-Mexican-Kitchen-San-Clemente\" class=\"r-rcm_r-link\" target=\"_blank\">Chelas Mexican Kitchen</a> <div class=\"r-rcm_year\">2023</div> <div class=\"r-rcm_bottom \"> <span class=\"r-rcm_str1 \">Recommended</span> </div> <div class=\"r-rcm_heading\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"144px\" height=\"144px\" viewbox=\"0 0 144 144\"> <defs> <path id=\"r-rcm-arc\" d=\"M 12 72 a 60 60 0 0 0 120 0\"></path> </defs> <text class=\"r-rcm_heading__bottom \" fill=\"#fff\" text-anchor=\"middle\"> <textpath startoffset=\"50%\" xlink:href=\"#r-rcm-arc\"><a href=\"https://restaurantguru.com/\" class=\"r-rcm_heading__link\">Restaurant Guru</a></textpath> </text> </svg> </div>\n</div>\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_GXmmWG": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div align=\"center\">\n<link href=\"https://cdn6.localdatacdn.com/badges/restaurantji/css/circle_v5.css?v=94984\" rel=\"stylesheet\">\n<div id=\"circle_v5_wrap\"><div id=\"circle_v5\" tabindex=\"0\">\n<a href=\"https://www.restaurantji.com/ca/san-clemente/chelas-mexican-kitchen-/\" id=\"circletype_v5_brand_name\" class=\"autoFontSize\"><div class=\"ahref_emprty_area\">Chelas Mexican Kitchen</div>\n<hr id=\"restaurantji_badge_separator\">\n<div class=\"circle_badge_category\">Mexican</div></a><a href=\"https://www.restaurantji.com\" target=\"_blank\" id=\"rewards_link\">Restaurantji</a>\n</div></div>\n<script>function calculateFontSize(width, height, content){var area=width * height; var contentLength=content.length; return Math.sqrt(area / contentLength);}circletype_v5_brand_name.style.fontSize=calculateFontSize(circletype_v5_brand_name.offsetWidth / 1.5, circletype_v5_brand_name.offsetHeight / 1.5, circletype_v5_brand_name.querySelector('.ahref_emprty_area').innerText) + 'px';const size = calculateFontSize(circletype_v5_brand_name.offsetWidth / 2, circletype_v5_brand_name.offsetHeight / 2, circletype_v5_brand_name.querySelector('.circle_badge_category').innerText);circletype_v5_brand_name.querySelector('.circle_badge_category').style.fontSize= size > 16 ? 16 : size + 'px';\n</script>\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_8ty4Ew": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KWUr34": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4><strong>ATTENTION CUSTOMERS WITH FOOD ALLERGIES</strong></h4>",
+            "heading_size": "h2"
+          }
+        },
+        "text_NBjQbN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please be aware that our food may contain or come into contact with common allergens, such as dairy, eggs, wheat, soybeans, tree nuts, peanuts, fish, shellfish or wheat. While we take steps to minimize risk and safely handle the foods that contain potential allergens, please be advised that cross contamination may occur, as factors beyond our reasonable control may alter the formulations of the food we serve, or manufacturers may change their formulations without our knowledge. Our facilities are not food allergen or gluten-free. Customers with food allergies or other nutritional concerns are advised to notify a restaurant manager for assistance. Additional information or support and may be reached at <a href=\"mailto:echelas@chelasmexkitchen.com\">chelas@chelasmexkitchen.com.</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KWUr34",
+        "text_NBjQbN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "slideshow_hF6Jqt",
+    "rich_text",
+    "image_with_text_qeNQVj",
+    "image_with_text_9ETabx",
+    "image_with_text_4dQDAy",
+    "image_with_text_TTh7BC",
+    "featured_product_DkAHin",
+    "custom_liquid_bV67Eq",
+    "custom_liquid_GXmmWG",
+    "rich_text_8ty4Ew"
+  ]
+}
