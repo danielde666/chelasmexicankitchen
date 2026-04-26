@@ -332,6 +332,55 @@
         "padding_bottom": 100
       }
     },
+    "image_banner_NAQN6U": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_QRjGBg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Chela's Mexican Kitchen",
+            "heading_size": "h1"
+          }
+        },
+        "text_87aLjf": {
+          "type": "text",
+          "settings": {
+            "text": "IT'S MORE THAN JUST THE FOOD!",
+            "text_style": "body"
+          }
+        },
+        "buttons_8KRwfF": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QRjGBg",
+        "text_87aLjf",
+        "buttons_8KRwfF"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Best_Mexican_Food_in_Laguna_Beach_for_a_Crowd.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_with_text_TTh7BC": {
       "type": "image-with-text",
       "blocks": {
@@ -490,6 +539,7 @@
     "image_with_text_qeNQVj",
     "image_with_text_9ETabx",
     "image_with_text_4dQDAy",
+    "image_banner_NAQN6U",
     "image_with_text_TTh7BC",
     "featured_product_DkAHin",
     "custom_liquid_bV67Eq",
