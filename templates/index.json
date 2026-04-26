@@ -27,7 +27,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 40,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         },
         "slide_Pcg8cj": {
@@ -45,7 +45,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 50,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         },
         "slide_mJBVRQ": {
@@ -63,7 +63,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 50,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         }
       },
@@ -96,16 +96,6 @@
             "link": "shopify://pages/menu"
           }
         },
-        "column_PfPMRA": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_San_Clemente_with_Real_Ingredients.jpg",
-            "title": "Explore Our Menus",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "Our Menus",
-            "link": "shopify://pages/menu"
-          }
-        },
         "column_mHLtVX": {
           "type": "column",
           "settings": {
@@ -115,12 +105,22 @@
             "link_label": "Order online now",
             "link": "shopify://pages/menu"
           }
+        },
+        "column_PfPMRA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_San_Clemente_with_Real_Ingredients.jpg",
+            "title": "Explore Our Menus",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "Our Menus",
+            "link": "shopify://pages/menu"
+          }
         }
       },
       "block_order": [
         "column_BCP8TK",
-        "column_PfPMRA",
-        "column_mHLtVX"
+        "column_mHLtVX",
+        "column_PfPMRA"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -219,7 +219,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 100,
         "padding_bottom": 0
       }
@@ -273,7 +273,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -327,9 +327,9 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
-        "padding_bottom": 100
+        "padding_bottom": 80
       }
     },
     "image_banner_NAQN6U": {
@@ -369,7 +369,7 @@
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Best_Mexican_Food_for_Halloween_in_Laguna_Beach_for_Halloween_Parties.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-left",
@@ -379,35 +379,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "image_with_text_TTh7BC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_RPzpTn": {
-          "type": "heading",
-          "settings": {
-            "heading": "CHELAS MEXICAN KITCHEN…IT'S MORE THAN JUST THE FOOD!",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_RPzpTn"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Chelas_Mexican_Kitchen_Flowers.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "featured_product_DkAHin": {
@@ -540,7 +511,6 @@
     "image_with_text_9ETabx",
     "image_with_text_4dQDAy",
     "image_banner_NAQN6U",
-    "image_with_text_TTh7BC",
     "featured_product_DkAHin",
     "custom_liquid_bV67Eq",
     "custom_liquid_GXmmWG",
