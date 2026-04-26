@@ -370,7 +370,7 @@
       "settings": {
         "image": "shopify://shop_images/Best_Mexican_Food_for_Halloween_in_Laguna_Beach_for_Halloween_Parties.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-left",
         "show_text_box": false,
