@@ -130,7 +130,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          ".header-wrapper {display: block; position: relative; background-color: transparent !important; margin-bottom: -160px;}"
+          ".header-wrapper {background-color: transparent !important; margin-bottom: -160px;}"
         ],
         "settings": {
           "color_scheme": "inverse",
