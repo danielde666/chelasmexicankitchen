@@ -1,0 +1,10 @@
+/* Homepage hero: transparent header overlay until scroll */
+.template-index .header-wrapper {
+  background-color: transparent !important;
+  margin-bottom: -160px;
+}
+
+.template-index.chelas-header-scrolled .header-wrapper {
+  background-color: rgb(var(--color-background)) !important;
+  transition: background-color 0.3s ease-in-out;
+}
