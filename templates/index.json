@@ -368,9 +368,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Best_Mexican_Food_in_Laguna_Beach_for_a_Crowd.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
+        "image": "shopify://shop_images/Chelas_Mexican_Kitchen_Flowers.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
