@@ -357,7 +357,7 @@
             "button_style_secondary_1": false,
             "button_label_2": "Catering Menu",
             "button_link_2": "shopify://pages/catering-menu",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
