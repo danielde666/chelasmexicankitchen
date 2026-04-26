@@ -1,11 +1,12 @@
 /* Homepage hero: transparent header overlay until scroll */
 .template-index .header-wrapper {
-  background-color: transparent !important;
+  background-color: rgba(var(--color-background),0) !important;
   margin-bottom: -160px;
 }
 
 .template-index .header__menu-item,
-.template-index .header__active-menu-item {
+.template-index .header__active-menu-item,
+.template-index .header__icon {
   color: rgb(255 255 255 / 75%);
 }
 
@@ -13,7 +14,11 @@
   background-color: rgb(var(--color-background)) !important;
   transition: background-color 0.3s ease-in-out;
 }
-.template-index.chelas-header-scrolled  .header__menu-item,
-.template-index.chelas-header-scrolled  .header__active-menu-item   {
+.template-index.chelas-header-scrolled  .header__menu-item {
   color:rgba(var(--color-foreground), 0.75)
+}
+
+.template-index.chelas-header-scrolled  .header__active-menu-item,
+.template-index.chelas-header-scrolled .header__icon {
+  color: rgb(var(--color-foreground));
 }
