@@ -173,10 +173,18 @@
     "image_with_text_qeNQVj": {
       "type": "image-with-text",
       "blocks": {
+        "caption_DD6VeW": {
+          "type": "caption",
+          "settings": {
+            "caption": "San Clemente",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "heading_z8JVDe": {
           "type": "heading",
           "settings": {
-            "heading": "San Clemente: AVENIDA PICO",
+            "heading": "Avenida Pico",
             "heading_size": "h2"
           }
         },
@@ -196,6 +204,7 @@
         }
       },
       "block_order": [
+        "caption_DD6VeW",
         "heading_z8JVDe",
         "text_aQpcAB",
         "button_ETDFzG"
@@ -218,10 +227,18 @@
     "image_with_text_9ETabx": {
       "type": "image-with-text",
       "blocks": {
+        "caption_pnEHFf": {
+          "type": "caption",
+          "settings": {
+            "caption": "San Clemente",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "heading_KYFrLV": {
           "type": "heading",
           "settings": {
-            "heading": "VISIT CMK OR ORDER ONLINE - CAMINO DE LOS MARES",
+            "heading": "Camino De Los Mares",
             "heading_size": "h2"
           }
         },
@@ -241,6 +258,7 @@
         }
       },
       "block_order": [
+        "caption_pnEHFf",
         "heading_KYFrLV",
         "text_8eTm8M",
         "button_c94QrW"
@@ -263,10 +281,18 @@
     "image_with_text_4dQDAy": {
       "type": "image-with-text",
       "blocks": {
+        "caption_nkjRpY": {
+          "type": "caption",
+          "settings": {
+            "caption": "Laguna Beach",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
         "heading_dhPfBy": {
           "type": "heading",
           "settings": {
-            "heading": "VISIT CMK OR ORDER ONLINE - LAGUNA BEACH",
+            "heading": "North Coast Highway",
             "heading_size": "h2"
           }
         },
@@ -286,6 +312,7 @@
         }
       },
       "block_order": [
+        "caption_nkjRpY",
         "heading_dhPfBy",
         "text_c3H7C6",
         "button_K9Yqtt"
