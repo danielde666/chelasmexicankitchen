@@ -146,7 +146,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Chelas Mexican Kitchen - Viva el Sabor</p>",
+            "heading": "<p>Chelas Mexican Kitchen - <em>Viva el Sabor</em></p>",
             "heading_size": "h2"
           }
         },
@@ -163,11 +163,11 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
+        "content_alignment": "left",
+        "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "image_with_text_qeNQVj": {
