@@ -252,9 +252,8 @@
       ],
       "name": "Dinner/Lunch",
       "settings": {
-        "image": "shopify://shop_images/Which_Restaurant_Has_the_Best_Brunch_in_Orange_County_for_Mexican_Food.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "medium",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -267,11 +266,11 @@
     },
     "custom_liquid_GNcGAN": {
       "type": "custom-liquid",
-      "name": "#breakfast",
+      "name": "#allday",
       "settings": {
         "custom_liquid": "<div id=\"allday\" class=\"page-width gradient center\">\n<p>Made-to-order always.\n</p>\n</div>",
         "color_scheme": "background-1",
-        "padding_top": 100,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
