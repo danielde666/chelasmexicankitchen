@@ -209,7 +209,7 @@
 
     {{ 'chelas.css' | asset_url | stylesheet_tag }}
 
-    {%- if template.name == 'index' -%}
+    {%- if template.name == 'index' or template.name == 'page' and template.suffix == 'menu-main' -%}
       <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous" defer="defer"></script>
       <script src="{{ 'chelas-index.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
@@ -221,7 +221,7 @@
     </script>
   </head>
 
-  <body class="gradient template-{{ template.name | handleize }}">
+  <body class="gradient template-{{ template.name | handleize }}{% if template.suffix != blank %} template-{{ template.name | handleize }}-{{ template.suffix | handleize }}{% endif %}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>

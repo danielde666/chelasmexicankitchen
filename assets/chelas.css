@@ -1,12 +1,19 @@
-/* Homepage: header overlaps hero (-160px) in every state; only background/nav colors change. */
-.template-index .header-wrapper {
+/*
+  Homepage (.template-index) + menu landing page (.template-page-menu-main):
+  header overlaps hero (-160px); only background/nav colors change.
+*/
+.template-index .header-wrapper,
+.template-page-menu-main .header-wrapper {
   background-color: rgba(var(--color-background), 0) !important;
   margin-bottom: -160px;
 }
 
 .template-index .header__menu-item,
 .template-index .header__active-menu-item,
-.template-index .header__icon {
+.template-index .header__icon,
+.template-page-menu-main .header__menu-item,
+.template-page-menu-main .header__active-menu-item,
+.template-page-menu-main .header__icon {
   color: rgb(255 255 255 /100%);
 }
 
@@ -15,37 +22,61 @@
   desktop dropdown/mega (details[open]), cart / search / modals (overflow-hidden*).
 */
 .template-index.chelas-header-scrolled .header-wrapper,
+.template-page-menu-main.chelas-header-scrolled .header-wrapper,
 .template-index:has(#shopify-section-header.menu-open) .header-wrapper,
+.template-page-menu-main:has(#shopify-section-header.menu-open) .header-wrapper,
 .template-index:has(.header__inline-menu details[open]) .header-wrapper,
+.template-page-menu-main:has(.header__inline-menu details[open]) .header-wrapper,
 .template-index.overflow-hidden .header-wrapper,
+.template-page-menu-main.overflow-hidden .header-wrapper,
 .template-index.overflow-hidden-mobile .header-wrapper,
-.template-index.overflow-hidden-tablet .header-wrapper {
+.template-page-menu-main.overflow-hidden-mobile .header-wrapper,
+.template-index.overflow-hidden-tablet .header-wrapper,
+.template-page-menu-main.overflow-hidden-tablet .header-wrapper {
   background-color: rgb(var(--color-background)) !important;
 
   transition: background-color 0.3s ease-in-out;
 }
 
 .template-index.chelas-header-scrolled .header__menu-item,
+.template-page-menu-main.chelas-header-scrolled .header__menu-item,
 .template-index:has(#shopify-section-header.menu-open) .header__menu-item,
+.template-page-menu-main:has(#shopify-section-header.menu-open) .header__menu-item,
 .template-index:has(.header__inline-menu details[open]) .header__menu-item,
+.template-page-menu-main:has(.header__inline-menu details[open]) .header__menu-item,
 .template-index.overflow-hidden .header__menu-item,
+.template-page-menu-main.overflow-hidden .header__menu-item,
 .template-index.overflow-hidden-mobile .header__menu-item,
-.template-index.overflow-hidden-tablet .header__menu-item {
+.template-page-menu-main.overflow-hidden-mobile .header__menu-item,
+.template-index.overflow-hidden-tablet .header__menu-item,
+.template-page-menu-main.overflow-hidden-tablet .header__menu-item {
   color: rgba(var(--color-foreground), 1);
 }
 
 .template-index.chelas-header-scrolled .header__active-menu-item,
+.template-page-menu-main.chelas-header-scrolled .header__active-menu-item,
 .template-index:has(#shopify-section-header.menu-open) .header__active-menu-item,
+.template-page-menu-main:has(#shopify-section-header.menu-open) .header__active-menu-item,
 .template-index:has(.header__inline-menu details[open]) .header__active-menu-item,
+.template-page-menu-main:has(.header__inline-menu details[open]) .header__active-menu-item,
 .template-index.overflow-hidden .header__active-menu-item,
+.template-page-menu-main.overflow-hidden .header__active-menu-item,
 .template-index.overflow-hidden-mobile .header__active-menu-item,
+.template-page-menu-main.overflow-hidden-mobile .header__active-menu-item,
 .template-index.overflow-hidden-tablet .header__active-menu-item,
+.template-page-menu-main.overflow-hidden-tablet .header__active-menu-item,
 .template-index.chelas-header-scrolled .header__icon,
+.template-page-menu-main.chelas-header-scrolled .header__icon,
 .template-index:has(#shopify-section-header.menu-open) .header__icon,
+.template-page-menu-main:has(#shopify-section-header.menu-open) .header__icon,
 .template-index:has(.header__inline-menu details[open]) .header__icon,
+.template-page-menu-main:has(.header__inline-menu details[open]) .header__icon,
 .template-index.overflow-hidden .header__icon,
+.template-page-menu-main.overflow-hidden .header__icon,
 .template-index.overflow-hidden-mobile .header__icon,
-.template-index.overflow-hidden-tablet .header__icon {
+.template-page-menu-main.overflow-hidden-mobile .header__icon,
+.template-index.overflow-hidden-tablet .header__icon,
+.template-page-menu-main.overflow-hidden-tablet .header__icon {
   color: rgb(var(--color-foreground));
 }
 
