@@ -47,7 +47,7 @@
       "settings": {
         "image": "shopify://shop_images/Which_Restaurant_Has_the_Best_Brunch_in_Orange_County_for_Mexican_Food.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -83,7 +83,7 @@
       "name": "Breakfast Banner",
       "settings": {
         "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Catering.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -101,7 +101,7 @@
       "settings": {
         "custom_liquid": "<div id=\"breakfast\" class=\"page-width gradient center\">\n<p>Served all day. Made-to-order with a side of chips and salsa.\n</p>\n</div>",
         "color_scheme": "background-1",
-        "padding_top": 100,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -242,7 +242,7 @@
         "text_gGnMXK": {
           "type": "text",
           "settings": {
-            "text": "Salads, Echiladas, Burritos and more.",
+            "text": "Salads, enchiladas, burritos and more.",
             "text_style": "body"
           }
         }
@@ -253,8 +253,8 @@
       ],
       "name": "Dinner/Lunch",
       "settings": {
-        "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Catering.jpg",
-        "image_overlay_opacity": 50,
+        "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_Laguna_Beach_Real_Food.jpg",
+        "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -264,6 +264,16 @@
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "custom_liquid_GNcGAN": {
+      "type": "custom-liquid",
+      "name": "#breakfast",
+      "settings": {
+        "custom_liquid": "<div id=\"allday\" class=\"page-width gradient center\">\n<p>Made-to-order always.\n</p>\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 0
       }
     },
     "main": {
@@ -284,6 +294,7 @@
     "rich_text_gHMBjk",
     "rich_text_QL9fYG",
     "image_banner_ncVeMy",
+    "custom_liquid_GNcGAN",
     "main"
   ]
 }
