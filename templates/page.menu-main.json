@@ -126,7 +126,7 @@
         "heading_zDHDXA",
         "text_g8reiz"
       ],
-      "name": "Burritos",
+      "name": "Breakfast Burritos",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -167,6 +167,68 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_gHMBjk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_b3bxzh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Breakfast Tacos</strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_QLAE3L": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Americano Bacon Taco</strong><br/>Scrambled eggs, bacon, Colby jack cheese.<br/><strong>5.99</strong></p><p><strong>Mexican Chorizo Taco</strong><br/>Scrambled eggs, chorizo, Colby jack cheese, onion, cilantro.<br/><strong>5.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_b3bxzh",
+        "text_QLAE3L"
+      ],
+      "name": "Breakfast Tacos",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_QL9fYG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_x74aar": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>For The Kids</strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_9mFUQp": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Served with a side of chips, dessert & a drink.</em></p><p><strong>La Calle Chicken Taco</strong><br/>(with cheese, rice & beans)</p><p><strong>2 Crispy Chicken Taquitos <br/></strong>(with cheese)</p><p><strong>3 Bean & Queso Burrito</strong><br/><strong>9.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_x74aar",
+        "text_9mFUQp"
+      ],
+      "name": "For The Kids",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -181,6 +243,8 @@
     "custom_liquid_7taMch",
     "rich_text_TE3rxX",
     "rich_text_BBepHq",
+    "rich_text_gHMBjk",
+    "rich_text_QL9fYG",
     "main"
   ]
 }
