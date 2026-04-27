@@ -285,7 +285,7 @@ body,
 .color-inverse,
 .color-accent-1,
 .color-accent-2 {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-foreground), 1);
   background-color: rgb(var(--color-background));
 }
 
@@ -467,14 +467,14 @@ h5,
 
 h6,
 .h6 {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-foreground), 1);
   margin-block-start: 1.67em;
   margin-block-end: 1.67em;
 }
 
 blockquote {
   font-style: italic;
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-foreground), 1);
   border-left: 0.2rem solid rgba(var(--color-foreground), 0.2);
   padding-left: 1rem;
 }
@@ -621,7 +621,7 @@ h6:empty {
 }
 
 .link--text:hover {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-foreground), 1);
 }
 
 .link-with-icon {
