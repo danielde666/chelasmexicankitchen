@@ -58,16 +58,6 @@
         "show_text_below": true
       }
     },
-    "custom_liquid_7taMch": {
-      "type": "custom-liquid",
-      "name": "#breakfast",
-      "settings": {
-        "custom_liquid": "<div id=\"breakfast\" class=\"page-width gradient center\">\n<p>Breakfast served all day. Made-to-order with a side of chips and salsa.\n</p>\n</div>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_banner_VEPhUR": {
       "type": "image-banner",
       "blocks": {
@@ -92,7 +82,6 @@
       ],
       "name": "Breakfast Banner",
       "settings": {
-        "image": "shopify://shop_images/Best_Brunch_in_South_OC_for_Large_Groups.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -103,6 +92,16 @@
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "custom_liquid_7taMch": {
+      "type": "custom-liquid",
+      "name": "#breakfast",
+      "settings": {
+        "custom_liquid": "<div id=\"breakfast\" class=\"page-width gradient center\">\n<p>Breakfast served all day. Made-to-order with a side of chips and salsa.\n</p>\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "rich_text_TE3rxX": {
@@ -251,7 +250,6 @@
         "heading_6UQJqk",
         "text_gGnMXK"
       ],
-      "disabled": true,
       "name": "Dinner/Lunch",
       "settings": {
         "image_overlay_opacity": 0,
@@ -339,8 +337,8 @@
   },
   "order": [
     "image_banner_mzUHij",
-    "custom_liquid_7taMch",
     "image_banner_VEPhUR",
+    "custom_liquid_7taMch",
     "rich_text_TE3rxX",
     "rich_text_BBepHq",
     "rich_text_gHMBjk",
