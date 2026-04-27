@@ -303,6 +303,29 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_nF6piF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_GqLHBX": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Original Steak</strong><br/>Rice, refried beans, onion & cilantro.<br/><strong>14.99</strong></p><p><strong>Chelas Burrito</strong><br/>Black beans, sour cream, guacamole, cabbage, onion, cilantro, Monterey jack cheese.<br/><strong>Chicken or Carnitas 15.99</strong><br/><strong>Steak 16.99</strong></p><p><strong>Grilled Ribeye</strong><br/>Chipotle BBQ rib-eye steak, sour cream, guacamole, cabbage, onion, cilantro, Monterey jack cheese.<br/><strong>17.99</strong></p><p><strong>El Macho</strong><br/>Steak and chicken, refried beans, rice, guacamole, cabbage, onion, cilantro, Monterey jack cheese.<br/><strong>16.99</strong></p><p><strong>Chicken Fajita</strong><br/>Sautéed red bell peppers, onions, black beans & Monterey jack cheese.<br/><strong>15.99</strong></p><p><strong>Chile Verde Wet</strong><br/>Our Famous Chile Verde Carnitas with rice, refried beans, melted Colby jack cheese, sour cream.<br/><strong>16.99</strong></p><p><strong>Bean & Cheese</strong><br/>Refried beans & Colby jack cheese.<br/><strong>10.99</strong></p><p><strong>1925 Don Ole</strong><br/>Steak, papas fritas, Colby jack cheese, guacamole, black beans, pico de gallo.<br/><strong>15.99</strong></p><p><strong>Baja Burrito</strong><br/>Steak, shrimp, cabbage, pico de gallo, chipotle crème, avocado slices.<br/><strong>17.99</strong></p><p><strong>Laguna Fish Burrito</strong><br/>Beer battered or grilled fish, Monterey jack cheese, cabbage, pico de gallo, avocado slices, chipotle crème.<br/><strong>16.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_GqLHBX"
+      ],
+      "name": "Breakfast Burritos",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -323,6 +346,7 @@
     "image_banner_ncVeMy",
     "image_banner_LmmN9A",
     "custom_liquid_GNcGAN",
+    "rich_text_nF6piF",
     "main"
   ]
 }
