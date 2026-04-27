@@ -7,7 +7,7 @@
 .template-index .header__menu-item,
 .template-index .header__active-menu-item,
 .template-index .header__icon {
-  color: rgb(255 255 255 / 75%);
+  color: rgb(255 255 255 /100%);
 }
 
 /*
@@ -31,7 +31,7 @@
 .template-index.overflow-hidden .header__menu-item,
 .template-index.overflow-hidden-mobile .header__menu-item,
 .template-index.overflow-hidden-tablet .header__menu-item {
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-foreground), 1);
 }
 
 .template-index.chelas-header-scrolled .header__active-menu-item,
