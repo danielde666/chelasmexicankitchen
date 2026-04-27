@@ -43,7 +43,7 @@
         "text_cFBTJy",
         "buttons_RWfJVC"
       ],
-      "name": "t:sections.image-banner.presets.name",
+      "name": "Menu Page Banner",
       "settings": {
         "image": "shopify://shop_images/Which_Restaurant_Has_the_Best_Brunch_in_Orange_County_for_Mexican_Food.jpg",
         "image_overlay_opacity": 40,
@@ -80,7 +80,7 @@
         "heading_J6qtEX",
         "text_bEp4hW"
       ],
-      "name": "t:sections.image-banner.presets.name",
+      "name": "Breakfast Banner",
       "settings": {
         "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Catering.jpg",
         "image_overlay_opacity": 50,
@@ -97,7 +97,7 @@
     },
     "custom_liquid_7taMch": {
       "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
+      "name": "#breakfast",
       "settings": {
         "custom_liquid": "<div id=\"breakfast\" class=\"page-width gradient center\">\n<p>Served all day. Made-to-order with a side of chips and salsa.\n</p>\n</div>",
         "color_scheme": "background-1",
@@ -229,6 +229,43 @@
         "padding_bottom": 52
       }
     },
+    "image_banner_ncVeMy": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6UQJqk": {
+          "type": "heading",
+          "settings": {
+            "heading": "All Day Menu",
+            "heading_size": "h1"
+          }
+        },
+        "text_gGnMXK": {
+          "type": "text",
+          "settings": {
+            "text": "Salads, Echiladas, Burritos and more.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6UQJqk",
+        "text_gGnMXK"
+      ],
+      "name": "Dinner/Lunch",
+      "settings": {
+        "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Catering.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -245,6 +282,7 @@
     "rich_text_BBepHq",
     "rich_text_gHMBjk",
     "rich_text_QL9fYG",
+    "image_banner_ncVeMy",
     "main"
   ]
 }
