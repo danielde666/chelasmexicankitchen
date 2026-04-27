@@ -1,5 +1,5 @@
 (function ($) {
-  var THRESHOLD = 100;
+  var THRESHOLD = 500;
 
   function updateHeaderScrollState() {
     if ($(window).scrollTop() >= THRESHOLD) {
