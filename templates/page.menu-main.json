@@ -253,8 +253,8 @@
       ],
       "name": "Dinner/Lunch",
       "settings": {
-        "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Catering.jpg",
-        "image_overlay_opacity": 50,
+        "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_Laguna_Beach_Real_Food.jpg",
+        "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
