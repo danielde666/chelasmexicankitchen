@@ -58,6 +58,115 @@
         "show_text_below": true
       }
     },
+    "image_banner_VEPhUR": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_J6qtEX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Breakfast",
+            "heading_size": "h1"
+          }
+        },
+        "text_bEp4hW": {
+          "type": "text",
+          "settings": {
+            "text": "Burritos, tacos, chilaquiles y más!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J6qtEX",
+        "text_bEp4hW"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Catering.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "custom_liquid_7taMch": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div id=\"breakfast\" class=\"page-width gradient center\">\n<p>Served all day. Made-to-order with a side of chips and salsa.\n</p>\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_TE3rxX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zDHDXA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Burritos</strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_g8reiz": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Chelas MVP Burrito</strong><br/><em>Voted Best of O.C.</em><br/>Scrambled eggs, bacon, steak, crispy hash browns, guacamole, Colby jack cheese.<br/><strong>14.99</strong></p><p></p><p><strong>Chorizo Burrito</strong><br/>Scrambled eggs, crispy hash browns, refried beans, Colby jack cheese.<br/><strong>13.99</strong></p><p></p><p><strong>El Surfer Burrito</strong><br/>Scrambled eggs, refried beans, Colby jack cheese.<br/><strong>10.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zDHDXA",
+        "text_g8reiz"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_GBCY7g": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6P7Edb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_LVGaPB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6P7Edb",
+        "text_LVGaPB"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -68,6 +177,10 @@
   },
   "order": [
     "image_banner_mzUHij",
+    "image_banner_VEPhUR",
+    "custom_liquid_7taMch",
+    "rich_text_TE3rxX",
+    "rich_text_GBCY7g",
     "main"
   ]
 }
