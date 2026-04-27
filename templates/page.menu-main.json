@@ -253,9 +253,9 @@
       ],
       "name": "Dinner/Lunch",
       "settings": {
-        "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_Laguna_Beach_Real_Food.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "small",
+        "image": "shopify://shop_images/Which_Restaurant_Has_the_Best_Brunch_in_Orange_County_for_Mexican_Food.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
