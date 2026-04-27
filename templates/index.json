@@ -21,7 +21,7 @@
             "subheading": "YOUR ELEVATED FAST CASUAL MEXICAN RESTAURANT",
             "button_label": "ORDER ONLINE",
             "link": "shopify://pages/menu",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
