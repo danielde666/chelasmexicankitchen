@@ -264,11 +264,40 @@
         "show_text_below": true
       }
     },
+    "image_banner_LmmN9A": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_mwkh4j": {
+          "type": "heading",
+          "settings": {
+            "heading": "Burritos",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mwkh4j"
+      ],
+      "name": "Burritos Banner",
+      "settings": {
+        "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_San_Clemente_with_Fresh_Ingredients.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "custom_liquid_GNcGAN": {
       "type": "custom-liquid",
       "name": "#allday",
       "settings": {
-        "custom_liquid": "<div id=\"allday\" class=\"page-width gradient center\">\n<p>Made-to-order always.\n</p>\n</div>",
+        "custom_liquid": "<div id=\"allday\" class=\"page-width gradient center\">\n<p>Served on a freshly cooked flour tortilla with a side of chips and your choice of salsa. <br>Premium Peruvian Beans made fresh daily!<br>\n<b>Additional bag of chips 99¢</b> | <b>Make it wet +1.99</b>\n</p>\n</div>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -292,6 +321,7 @@
     "rich_text_gHMBjk",
     "rich_text_QL9fYG",
     "image_banner_ncVeMy",
+    "image_banner_LmmN9A",
     "custom_liquid_GNcGAN",
     "main"
   ]
