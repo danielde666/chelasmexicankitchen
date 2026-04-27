@@ -126,7 +126,7 @@
         "heading_zDHDXA",
         "text_g8reiz"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "Burritos",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -136,28 +136,28 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_GBCY7g": {
+    "rich_text_BBepHq": {
       "type": "rich-text",
       "blocks": {
-        "heading_6P7Edb": {
+        "heading_tMDAzH": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand</p>",
-            "heading_size": "h1"
+            "heading": "<p><strong>Huevos</strong></p>",
+            "heading_size": "h2"
           }
         },
-        "text_LVGaPB": {
+        "text_dyp6Ae": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p><strong>Chilaquiles (NEW)</strong><br/>Eggs, steak, tortilla chips, sour cream, queso fresco with choice of red or green sauce.<br/><strong>17.99</strong></p><p><strong>Omelette </strong><em><strong>(Choice of Chorizo or Bacon)</strong></em><br/>Three eggs, Colby jack cheese, avocado, red bell pepper, onion, side of beans.<br/><strong>15.99</strong></p>"
           }
         }
       },
       "block_order": [
-        "heading_6P7Edb",
-        "text_LVGaPB"
+        "heading_tMDAzH",
+        "text_dyp6Ae"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "Huevos",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -180,7 +180,7 @@
     "image_banner_VEPhUR",
     "custom_liquid_7taMch",
     "rich_text_TE3rxX",
-    "rich_text_GBCY7g",
+    "rich_text_BBepHq",
     "main"
   ]
 }
