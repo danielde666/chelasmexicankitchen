@@ -9,6 +9,51 @@
  */
 {
   "sections": {
+    "multicolumn_cKzBba": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RbnX4X": {
+          "type": "column",
+          "settings": {
+            "title": "Build Your Own Taco Bar",
+            "text": "<p><strong>Serves 15–20 — $350<br/></strong>Serve me 3 ways! Tacos, Combination Plate, or make me into a Bowl</p><p></p><p>Includes: <strong>Chicken, Steak or Carnitas (5 lbs)</strong><br/>Rice (half tray)<br/>Refried or Black Beans (half tray)<br/>Corn or Flour Tortillas (cooked or un-cooked)<br/>Garnishes: Onion, Cilantro, Limes, Pico de Gallo, <br/>Guacamole, Shredded Colby Jack Cheese (½ pint each)<br/></p><p><strong>3 Salsas </strong><br/>La Famosa, Salsa Verde<br/>Habanero or Chipotle <br/>(½ pint each)<br/>Large Bowl of Chips<strong><br/>Chelas Salad </strong><br/>or Shredded Lettuce <br/>(Medium bowl - no meat)</p><p><strong>PLEASE CALL 24+ HOURS AHEAD TO ORDER</strong></p>",
+            "link_label": "Please call us at 949-333-5565 for catering orders",
+            "link": "tel:+19493335565"
+          }
+        },
+        "column_yGVQtr": {
+          "type": "column",
+          "settings": {
+            "title": "Catering Packages",
+            "text": "<p><strong>Serves 10–15Includes Chips, Guacamole, 2 Salsas, Rice & Beans.*</strong></p><p><strong>1. CALLE TACO, BURRITOS — $275</strong><br/>• 15 La Calle Tacos<br/>Chicken or Carnitas (or a combination)<br/>• 4 Original Burritos (cut in half)<br/>Choose: Chicken or Carnitas<br/>• Chelas Salad — medium bowl (no meat)</p><p><strong>•</strong></p><p><strong>2. ENCHILADA PACK — $275</strong><br/>• 25 Enchiladas Verdes<br/>Choose: Cheese, Chicken or Carnitas<br/>• Garnishes: Lettuce (medium bowl), Sour Cream, Queso Fresco, Pico de Gallo (½ pint)</p><p><strong>•</strong></p><p><strong>3. CRISPY TACO, BURRITO & QUESADILLA — $275</strong><br/>• 10 Crispy Tacos<br/>Chicken or Carnitas (or a combination)<br/>• 4 Chelas Burritos (cut in half)<br/>Choose: Chicken or Carnitas<br/>• 2 Cheese Quesadilla Trays<br/>(2 cut into 12 pieces)</p><p><strong>•</strong></p><p><strong>4. FAJITAS</strong><br/>• Chicken, Steak or Mixed — $300<br/>• Shrimp — $330<br/>• Garnishes: Guacamole & Limes<br/>• “No’s” – No Onion, Cilantro or Pico de Gallo<br/>*Does not include chips & salsa</p><p><strong>•</strong></p><p><strong>5. BREAKFAST PACK — $250</strong><br/>• 15 Breakfast Tacos<br/>Choose: Mexican chorizo egg or Americano egg bacon tacos<br/>• 4 Breakfast Burritos (cut in half)<br/>Choose: MVP or Chorizo burritos<br/>• Grilled bell peppers and onions (half tray)<br/>• Refried or Black Beans (half tray)<br/></p><p><strong>•</strong></p><p><strong>6. LITTLE BURROS</strong><br/>20 mini burritos<br/>• Bean & Cheese — $70<br/>• Add Chicken — + $20<br/>*Does not include chips & salsa, guac, rice or beans</p><p><strong>•</strong></p><p><strong>EXTRAS</strong><br/>You can purchase any of our meats, rice, beans, salsas, specialty sauces by the pint.<br/>Chips, Salads by large bowls.<br/>Tortillas by the dozen.<br/>Ask for specialty orders that cater to your needs.</p><p>•</p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RbnX4X",
+        "column_yGVQtr"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Catering Menu",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Please call us at 949-333-5565 for catering orders",
+        "button_link": "tel:+19493335565",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_JMNNVc": {
       "type": "image-with-text",
       "blocks": {
@@ -22,14 +67,14 @@
         "text_Y3AYQa": {
           "type": "text",
           "settings": {
-            "text": "<p>Let Chela's do the cooking for your event. <br/>Black plates, utensils, and serving spoons included.</p><p><br/><strong>PLEASE CALL 24+ HOURS AHEAD TO ORDER.</strong></p><p>Please call us at <a href=\"tel:+19493335565\">949-333-5565</a> for catering orders</p>",
+            "text": "<p>Let Chela's do the cooking for your event. <br/>Black plates, utensils, and serving spoons included.<br/>Please call us at <a href=\"tel:+19493335565\">949-333-5565</a> for catering orders</p><p><strong>PLEASE CALL 24+ HOURS AHEAD TO ORDER. </strong></p>",
             "text_style": "body"
           }
         },
         "button_aAHQNy": {
           "type": "button",
           "settings": {
-            "button_label": "Click here to call for Catering",
+            "button_label": "Call 949-333-5565 for catering orders",
             "button_link": "tel:+19493335565"
           }
         }
@@ -173,6 +218,7 @@
     }
   },
   "order": [
+    "multicolumn_cKzBba",
     "image_with_text_JMNNVc",
     "rich_text_DnkBeV",
     "rich_text_i8Gg9x",
