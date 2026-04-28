@@ -342,7 +342,7 @@
       ],
       "name": "Tacos Banner",
       "settings": {
-        "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Parties.jpg",
+        "image": "shopify://shop_images/Where_to_Find_the_Best_Ribeye_Tacos_in_Orange_County_for_Dinner.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -492,35 +492,6 @@
         "padding_bottom": 52
       }
     },
-    "image_banner_M9EjQL": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_4M9rmP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Antojitos",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_4M9rmP"
-      ],
-      "name": "Antojitos Banner",
-      "settings": {
-        "image": "shopify://shop_images/Best_Brunch_in_South_OC_for_Dates.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "image_banner_qUUnhk": {
       "type": "image-banner",
       "blocks": {
@@ -537,7 +508,7 @@
       ],
       "name": "Antojitos Banner",
       "settings": {
-        "image": "shopify://shop_images/Best_Brunch_in_South_OC_for_Dates.jpg",
+        "image": "shopify://shop_images/Which_Restaurant_Has_the_Best_Brunch_in_Orange_County_for_Mexican_Food.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -571,6 +542,35 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "image_banner_M9EjQL": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_4M9rmP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Antojitos",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4M9rmP"
+      ],
+      "name": "ESPECIALES Banner",
+      "settings": {
+        "image": "shopify://shop_images/Where_to_Find_the_Best_Ribeye_Tacos_in_Orange_County_for_Dinner.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text_a7GVNd": {
