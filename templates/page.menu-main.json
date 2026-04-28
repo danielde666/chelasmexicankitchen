@@ -316,7 +316,69 @@
       "block_order": [
         "text_GqLHBX"
       ],
-      "name": "Breakfast Burritos",
+      "name": "Burritos",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_mEYh3k": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tKUWHf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tacos",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tKUWHf"
+      ],
+      "name": "Tacos",
+      "settings": {
+        "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Parties.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "custom_liquid_ttx4Hp": {
+      "type": "custom-liquid",
+      "name": "#tacos",
+      "settings": {
+        "custom_liquid": "<div id=\"tacos\" class=\"page-width gradient center\">\n<p>2 tacos served with rice, refried beans, side of chips & salsa.\n</p>\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_aBTK7H": {
+      "type": "rich-text",
+      "blocks": {
+        "text_PwK9b4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>La Calle Tacos</strong><br/>Authentic Mexican street tacos.<br/>Corn tortillas filled with your choice of mean and topped with onion & cilantro. <br/><strong>Chicken, Carnitas or Steak</strong> <strong>13.99</strong></p><p><strong>Rib Eye Tacos</strong><br/>Voted Best of O.C.<br/>Chipotle BBQ rib-eye steak, Mexican lime slaw, chipotle crème, pickled red onions & queso fresco.<br/><strong>17.99</strong></p><p><strong>Crispy Tacos</strong><br/><strong>Chicken </strong>(most popular). <strong>14.99<br/>Shredded Beef </strong>Corn tortilla with lettuce, sour cream, Colby jack cheese. <strong>15.99<br/>Carnitas or Potato </strong>Corn tortilla with lettuce, pico, queso fresco <strong>14.99</strong></p><p><strong>La Gringa Tacos</strong><br/>Flour tortilla, your choice of meat, guacamole, sour cream, cabbage, onion, cilantro, Monterey jack cheese.<br/><strong>Chicken or Carnitas 16.50</strong><br/><strong>Steak 16.99</strong></p><p><strong>Beer Battered Fish Tacos</strong><br/>Pacifico® battered white fish, Monterey jack cheese, cabbage, pico de gallo, chipotle crème sauce.<br/><strong>15.99</strong></p><p><strong>Shrimp Tacos</strong><br/>Corn tortillas, cabbage, pico de gallo, chipotle crème, avocado slices.<br/><strong>17.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_PwK9b4"
+      ],
+      "name": "Tacos list",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -347,6 +409,9 @@
     "image_banner_LmmN9A",
     "custom_liquid_GNcGAN",
     "rich_text_nF6piF",
+    "image_banner_mEYh3k",
+    "custom_liquid_ttx4Hp",
+    "rich_text_aBTK7H",
     "main"
   ]
 }
