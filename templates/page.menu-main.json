@@ -469,6 +469,29 @@
         "show_text_below": true
       }
     },
+    "rich_text_j6icx7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_VheKEh": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Strawberry Agave Salad (V)</strong><br/>Romaine lettuce, strawberries, black beans, jicama, queso fresco, tossed in agave lime vinaigrette.<br/><strong>14.99</strong></p><p><strong>Chelas Salad</strong><br/>Romaine lettuce, corn, black beans, queso fresco, crispy tortilla strips, avocado. With your choice of dressing.<br/>Chicken<strong> 15.99</strong><br/>Steak <strong>16.50</strong><br/>Fish <strong>16.99</strong><br/>Shrimp <strong>17.99</strong></p><p><strong>•</strong></p><p><strong>Chicken Fajita Bowl</strong> (NEW)<br/>Romaine, grilled chicken, black beans, rice, pico de gallo, sautéed bell peppers & onions, Monterey jack cheese, guacamole.<br/>With a side of chips.<br/><strong>14.99</strong></p><p><strong>Chelas Bowl</strong><br/>Romaine, black beans, rice, pico de gallo, guacamole, with a side of chips.<br/>Chicken <strong>14.99</strong><br/>Steak <strong>15.99</strong><br/>Shrimp <strong>16.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_VheKEh"
+      ],
+      "name": "Enchiladas",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -496,6 +519,7 @@
     "image_banner_gNVLec",
     "rich_text_yJ8Nmx",
     "image_banner_FBtwQX",
+    "rich_text_j6icx7",
     "main"
   ]
 }
