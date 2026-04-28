@@ -42,13 +42,13 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Best_Food_in_San_Clemente_for_a_Crowd.jpg",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -57,10 +57,38 @@
     "rich_text_DnkBeV": {
       "type": "rich-text",
       "blocks": {
+        "heading_83Hjd6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Build Your Own Taco Bar</p>",
+            "heading_size": "h1"
+          }
+        },
+        "caption_GMpRgn": {
+          "type": "caption",
+          "settings": {
+            "caption": "⭐ Most Popular",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "text_VreerP": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>BUILD YOUR OWN TACO BAR<br/>⭐ Most Popular</strong></h1><p><strong>Serves 15–20 — $350Serve me 3 ways! Tacos, Combination Plate, or make me into a Bowl</strong>Includes:</p><ul><li>Chicken, Steak or Carnitas (5 lbs)</li><li>Rice (half tray)</li><li>Refried or Black Beans (half tray)</li><li>Corn or Flour Tortillas (cooked or un-cooked)</li><li>Garnishes: Onion, Cilantro, Limes, Pico de Gallo, Guacamole, Shredded Colby Jack Cheese (½ pint each)</li><li>3 Salsas (La Famosa, Salsa Verde (½ pint each), Habanero or Chipotle (½ pint))</li><li>Large Bowl of Chips</li><li>Chelas Salad or Shredded Lettuce (Medium bowl - no meat)</li></ul><h1><strong>CATERING PACKAGES</strong></h1><p><strong>Serves 10–15Includes Chips, Guacamole, 2 Salsas, Rice & Beans.*</strong></p><p><strong>1. CALLE TACO, BURRITOS — $275</strong><br/><strong>• 15 La Calle Tacos</strong><br/><strong>Chicken or Carnitas</strong> (or a combination)<br/><strong>• 4 Original Burritos</strong> (cut in half)<br/><strong>Choose: Chicken or Carnitas</strong><br/><strong>• Chelas Salad</strong> — medium bowl (no meat)</p><p><strong>2. ENCHILADA PACK — $275</strong><br/><strong>• 25 Enchiladas Verdes</strong><br/><strong>Choose: Cheese, Chicken or Carnitas</strong><br/><strong>• Garnishes: </strong>Lettuce (medium bowl), Sour Cream, Queso Fresco, Pico de Gallo (½ pint)</p><p><strong>3. CRISPY TACO, BURRITO & QUESADILLA — $275</strong><br/><strong>• 10 Crispy Tacos</strong><br/><strong>Chicken or Carnitas</strong> (or a combination)<br/><strong>• 4 Chelas Burritos </strong>(cut in half)<br/><strong>Choose: Chicken or Carnitas</strong><br/><strong>• 2 Cheese Quesadilla Trays</strong><br/>(2 cut into 12 pieces)</p><p><strong>4. FAJITAS</strong><br/>• Chicken, Steak or Mixed <strong>— $300</strong><br/>• Shrimp <strong>— $330</strong><br/>•<strong> Garnishes: Guacamole & Limes</strong><br/>• “No’s” – No Onion, Cilantro or Pico de Gallo<br/>*Does not include chips & salsa</p><p><strong>5. BREAKFAST PACK — $250</strong><br/><strong>• 15 Breakfast Tacos</strong><br/><strong>Choose: Mexican chorizo egg or Americano egg bacon tacos</strong><br/><strong>• 4 Breakfast Burritos</strong> (cut in half)<br/><strong>Choose: MVP or Chorizo burritos</strong><br/><strong>• Grilled bell peppers and onions</strong> (half tray)<br/><strong>• Refried or Black Beans </strong>(half tray)<br/></p><p><strong>6. LITTLE BURROS</strong><br/><strong>20 mini burritos</strong><br/><strong>• Bean & Cheese — $70</strong><br/><strong>• Add Chicken — + $20</strong><br/>*Does not include chips & salsa, guac, rice or beans</p><p><strong>EXTRAS</strong><br/><strong>You can purchase any of our meats, rice, beans, salsas, specialty sauces by the pint.</strong><br/><strong>Chips, Salads by large bowls.</strong><br/><strong>Tortillas by the dozen.</strong><br/>Ask for specialty orders that cater to your needs.</p>"
+            "text": "<p><strong>Serves 15–20 — $350Serve me 3 ways! Tacos, Combination Plate, or make me into a Bowl</strong></p><p>Includes:</p><ul><li>Chicken, Steak or Carnitas (5 lbs)</li><li>Rice (half tray)</li><li>Refried or Black Beans (half tray)</li><li>Corn or Flour Tortillas (cooked or un-cooked)</li><li>Garnishes: Onion, Cilantro, Limes, Pico de Gallo, Guacamole, Shredded Colby Jack Cheese (½ pint each)</li><li>3 Salsas (La Famosa, Salsa Verde (½ pint each), Habanero or Chipotle (½ pint))</li><li>Large Bowl of Chips</li><li>Chelas Salad or Shredded Lettuce (Medium bowl - no meat)</li></ul>"
+          }
+        },
+        "heading_NJjM9j": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Catering Packages</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_6EH9fx": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Serves 10–15Includes Chips, Guacamole, 2 Salsas, Rice & Beans.*</strong></p><p><strong>1. CALLE TACO, BURRITOS — $275</strong><br/><strong>• 15 La Calle Tacos</strong><br/><strong>Chicken or Carnitas</strong> (or a combination)<br/><strong>• 4 Original Burritos</strong> (cut in half)<br/><strong>Choose: Chicken or Carnitas</strong><br/><strong>• Chelas Salad</strong> — medium bowl (no meat)</p><p><strong>2. ENCHILADA PACK — $275</strong><br/><strong>• 25 Enchiladas Verdes</strong><br/><strong>Choose: Cheese, Chicken or Carnitas</strong><br/><strong>• Garnishes: </strong>Lettuce (medium bowl), Sour Cream, Queso Fresco, Pico de Gallo (½ pint)</p><p><strong>3. CRISPY TACO, BURRITO & QUESADILLA — $275</strong><br/><strong>• 10 Crispy Tacos</strong><br/><strong>Chicken or Carnitas</strong> (or a combination)<br/><strong>• 4 Chelas Burritos </strong>(cut in half)<br/><strong>Choose: Chicken or Carnitas</strong><br/><strong>• 2 Cheese Quesadilla Trays</strong><br/>(2 cut into 12 pieces)</p><p><strong>4. FAJITAS</strong><br/>• Chicken, Steak or Mixed <strong>— $300</strong><br/>• Shrimp <strong>— $330</strong><br/>•<strong> Garnishes: Guacamole & Limes</strong><br/>• “No’s” – No Onion, Cilantro or Pico de Gallo<br/>*Does not include chips & salsa</p><p><strong>5. BREAKFAST PACK — $250</strong><br/><strong>• 15 Breakfast Tacos</strong><br/><strong>Choose: Mexican chorizo egg or Americano egg bacon tacos</strong><br/><strong>• 4 Breakfast Burritos</strong> (cut in half)<br/><strong>Choose: MVP or Chorizo burritos</strong><br/><strong>• Grilled bell peppers and onions</strong> (half tray)<br/><strong>• Refried or Black Beans </strong>(half tray)<br/></p><p><strong>6. LITTLE BURROS</strong><br/><strong>20 mini burritos</strong><br/><strong>• Bean & Cheese — $70</strong><br/><strong>• Add Chicken — + $20</strong><br/>*Does not include chips & salsa, guac, rice or beans</p><p><strong>EXTRAS</strong><br/><strong>You can purchase any of our meats, rice, beans, salsas, specialty sauces by the pint.</strong><br/><strong>Chips, Salads by large bowls.</strong><br/><strong>Tortillas by the dozen.</strong><br/>Ask for specialty orders that cater to your needs.</p>"
           }
         },
         "text_8aJa8x": {
@@ -82,7 +110,11 @@
         }
       },
       "block_order": [
+        "heading_83Hjd6",
+        "caption_GMpRgn",
         "text_VreerP",
+        "heading_NJjM9j",
+        "text_6EH9fx",
         "text_8aJa8x",
         "button_qthRi4"
       ],
