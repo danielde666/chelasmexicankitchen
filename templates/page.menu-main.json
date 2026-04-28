@@ -440,6 +440,35 @@
         "padding_bottom": 52
       }
     },
+    "image_banner_FBtwQX": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_krgzWH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Salads & Bowls",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_krgzWH"
+      ],
+      "name": "SALADS & BOWLS Banner",
+      "settings": {
+        "image": "shopify://shop_images/Best_Restaurant_in_Laguna_Beach_for_Family_Dinner.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -466,6 +495,7 @@
     "rich_text_aBTK7H",
     "image_banner_gNVLec",
     "rich_text_yJ8Nmx",
+    "image_banner_FBtwQX",
     "main"
   ]
 }
