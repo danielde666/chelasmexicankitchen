@@ -550,7 +550,7 @@
         "heading_4M9rmP": {
           "type": "heading",
           "settings": {
-            "heading": "Antojitos",
+            "heading": "Especiales, Sides, and more",
             "heading_size": "h1"
           }
         }
@@ -560,7 +560,7 @@
       ],
       "name": "ESPECIALES Banner",
       "settings": {
-        "image": "shopify://shop_images/Where_to_Find_the_Best_Ribeye_Tacos_in_Orange_County_for_Dinner.jpg",
+        "image": "shopify://shop_images/Where_to_Find_the_Best_Tacos_in_South_Orange_County_for_Dinner.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
