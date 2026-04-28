@@ -57,13 +57,6 @@
     "rich_text_DnkBeV": {
       "type": "rich-text",
       "blocks": {
-        "heading_83Hjd6": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Build Your Own Taco Bar</p>",
-            "heading_size": "h1"
-          }
-        },
         "caption_GMpRgn": {
           "type": "caption",
           "settings": {
@@ -72,23 +65,17 @@
             "text_size": "medium"
           }
         },
-        "text_VreerP": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Serves 15–20 — $350Serve me 3 ways! Tacos, Combination Plate, or make me into a Bowl</strong></p><p>Includes:</p><ul><li>Chicken, Steak or Carnitas (5 lbs)</li><li>Rice (half tray)</li><li>Refried or Black Beans (half tray)</li><li>Corn or Flour Tortillas (cooked or un-cooked)</li><li>Garnishes: Onion, Cilantro, Limes, Pico de Gallo, Guacamole, Shredded Colby Jack Cheese (½ pint each)</li><li>3 Salsas (La Famosa, Salsa Verde (½ pint each), Habanero or Chipotle (½ pint))</li><li>Large Bowl of Chips</li><li>Chelas Salad or Shredded Lettuce (Medium bowl - no meat)</li></ul>"
-          }
-        },
-        "heading_NJjM9j": {
+        "heading_83Hjd6": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Catering Packages</p>",
+            "heading": "<p>Build Your Own Taco Bar</p>",
             "heading_size": "h1"
           }
         },
-        "text_6EH9fx": {
+        "text_VreerP": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Serves 10–15Includes Chips, Guacamole, 2 Salsas, Rice & Beans.*</strong></p><p><strong>1. CALLE TACO, BURRITOS — $275</strong><br/><strong>• 15 La Calle Tacos</strong><br/><strong>Chicken or Carnitas</strong> (or a combination)<br/><strong>• 4 Original Burritos</strong> (cut in half)<br/><strong>Choose: Chicken or Carnitas</strong><br/><strong>• Chelas Salad</strong> — medium bowl (no meat)</p><p><strong>2. ENCHILADA PACK — $275</strong><br/><strong>• 25 Enchiladas Verdes</strong><br/><strong>Choose: Cheese, Chicken or Carnitas</strong><br/><strong>• Garnishes: </strong>Lettuce (medium bowl), Sour Cream, Queso Fresco, Pico de Gallo (½ pint)</p><p><strong>3. CRISPY TACO, BURRITO & QUESADILLA — $275</strong><br/><strong>• 10 Crispy Tacos</strong><br/><strong>Chicken or Carnitas</strong> (or a combination)<br/><strong>• 4 Chelas Burritos </strong>(cut in half)<br/><strong>Choose: Chicken or Carnitas</strong><br/><strong>• 2 Cheese Quesadilla Trays</strong><br/>(2 cut into 12 pieces)</p><p><strong>4. FAJITAS</strong><br/>• Chicken, Steak or Mixed <strong>— $300</strong><br/>• Shrimp <strong>— $330</strong><br/>•<strong> Garnishes: Guacamole & Limes</strong><br/>• “No’s” – No Onion, Cilantro or Pico de Gallo<br/>*Does not include chips & salsa</p><p><strong>5. BREAKFAST PACK — $250</strong><br/><strong>• 15 Breakfast Tacos</strong><br/><strong>Choose: Mexican chorizo egg or Americano egg bacon tacos</strong><br/><strong>• 4 Breakfast Burritos</strong> (cut in half)<br/><strong>Choose: MVP or Chorizo burritos</strong><br/><strong>• Grilled bell peppers and onions</strong> (half tray)<br/><strong>• Refried or Black Beans </strong>(half tray)<br/></p><p><strong>6. LITTLE BURROS</strong><br/><strong>20 mini burritos</strong><br/><strong>• Bean & Cheese — $70</strong><br/><strong>• Add Chicken — + $20</strong><br/>*Does not include chips & salsa, guac, rice or beans</p><p><strong>EXTRAS</strong><br/><strong>You can purchase any of our meats, rice, beans, salsas, specialty sauces by the pint.</strong><br/><strong>Chips, Salads by large bowls.</strong><br/><strong>Tortillas by the dozen.</strong><br/>Ask for specialty orders that cater to your needs.</p>"
+            "text": "<p><strong>Serves 15–20 — $350<br/>Serve me 3 ways! <br/>Tacos, Combination Plate, or make me into a Bowl</strong></p><p>Includes:<br/><strong>Chicken, Steak or Carnitas (5 lbs)</strong><br/>- Rice (half tray)<br/>- Refried or Black Beans (half tray)<br/>- Corn or Flour Tortillas (cooked or un-cooked)<br/>- Garnishes: Onion, Cilantro, Limes, Pico de Gallo, <br/>- Guacamole, Shredded Colby Jack Cheese (½ pint each)<br/><strong>3 Salsas </strong><br/>La Famosa, Salsa Verde<br/>Habanero or Chipotle <br/>(½ pint each)<br/><strong>Large Bowl of Chips<br/>Chelas Salad </strong><br/>or Shredded Lettuce <br/>(Medium bowl - no meat)</p>"
           }
         },
         "text_8aJa8x": {
@@ -110,18 +97,66 @@
         }
       },
       "block_order": [
-        "heading_83Hjd6",
         "caption_GMpRgn",
+        "heading_83Hjd6",
         "text_VreerP",
-        "heading_NJjM9j",
-        "text_6EH9fx",
         "text_8aJa8x",
         "button_qthRi4"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "Taco bar",
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_i8Gg9x": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_F8CafV": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Catering Packages</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_ePqmmL": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Serves 10–15Includes Chips, Guacamole, 2 Salsas, Rice & Beans.*</strong></p><p><strong>1. CALLE TACO, BURRITOS — $275</strong><br/>• 15 La Calle Tacos<br/>Chicken or Carnitas (or a combination)<br/>• 4 Original Burritos (cut in half)<br/>Choose: Chicken or Carnitas<br/>• Chelas Salad — medium bowl (no meat)</p><p><strong>2. ENCHILADA PACK — $275</strong><br/>• 25 Enchiladas Verdes<br/>Choose: Cheese, Chicken or Carnitas<br/>• Garnishes: Lettuce (medium bowl), Sour Cream, Queso Fresco, Pico de Gallo (½ pint)</p><p><strong>3. CRISPY TACO, BURRITO & QUESADILLA — $275</strong><br/>• 10 Crispy Tacos<br/>Chicken or Carnitas (or a combination)<br/>• 4 Chelas Burritos (cut in half)<br/>Choose: Chicken or Carnitas<br/>• 2 Cheese Quesadilla Trays<br/>(2 cut into 12 pieces)</p><p><strong>4. FAJITAS</strong><br/>• Chicken, Steak or Mixed — $300<br/>• Shrimp — $330<br/>• Garnishes: Guacamole & Limes<br/>• “No’s” – No Onion, Cilantro or Pico de Gallo<br/>*Does not include chips & salsa</p><p><strong>5. BREAKFAST PACK — $250</strong><br/>• 15 Breakfast Tacos<br/>Choose: Mexican chorizo egg or Americano egg bacon tacos<br/>• 4 Breakfast Burritos (cut in half)<br/>Choose: MVP or Chorizo burritos<br/>• Grilled bell peppers and onions (half tray)<br/>• Refried or Black Beans (half tray)<br/></p><p><strong>6. LITTLE BURROS</strong><br/>20 mini burritos<br/>• Bean & Cheese — $70<br/>• Add Chicken — + $20<br/>*Does not include chips & salsa, guac, rice or beans</p><p><strong>EXTRAS</strong><br/>You can purchase any of our meats, rice, beans, salsas, specialty sauces by the pint.<br/>Chips, Salads by large bowls.<br/>Tortillas by the dozen.<br/>Ask for specialty orders that cater to your needs.</p>"
+          }
+        },
+        "text_TPrpEy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>PLEASE CALL 24+ HOURS AHEAD TO ORDER</strong></p><p>Please call us at <a href=\"tel:+19493335565\">949-333-5565</a> for catering orders</p>"
+          }
+        },
+        "button_XPxGek": {
+          "type": "button",
+          "settings": {
+            "button_label": "Call 949-333-5565 for catering orders",
+            "button_link": "tel:+19493335565",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_F8CafV",
+        "text_ePqmmL",
+        "text_TPrpEy",
+        "button_XPxGek"
+      ],
+      "name": "Packages",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -140,6 +175,7 @@
   "order": [
     "image_with_text_JMNNVc",
     "rich_text_DnkBeV",
+    "rich_text_i8Gg9x",
     "main"
   ]
 }
