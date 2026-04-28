@@ -492,6 +492,58 @@
         "padding_bottom": 52
       }
     },
+    "image_banner_M9EjQL": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_4M9rmP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Antojitos",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4M9rmP"
+      ],
+      "name": "Antojitos Banner",
+      "settings": {
+        "image": "shopify://shop_images/Best_Brunch_in_South_OC_for_Dates.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_Vg7wa6": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BiAfmM": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Taquitos</strong><br/>4 rolled taquitos cut in half, with lettuce, sour cream, pico de gallo, guacamole, queso fresco.<br/>Chicken <strong>13.99</strong><br/>Shredded Beef <strong>14.99</strong></p><p><strong>Quesadilla</strong><br/>Flour tortilla, Colby jack cheese, sour cream, guacamole, with a side of chips.<br/>Cheese <strong>11.99</strong><br/>Chicken <strong>13.99</strong><br/>Steak <strong>14.99</strong></p><p><strong>El Macho Nachos</strong><br/>Tortilla chips, refried beans, melted Colby jack cheese, guacamole, jalapeños, sour cream.<br/>Cheese <strong>12.99</strong><br/>Steak <strong>16.99</strong><br/>Chicken or Carnitas <strong>15.99</strong></p><p><strong>Asada Fries (NEW)</strong><br/>Seasoned fries, steak, chipotle crème, pico de gallo, guacamole.<br/><strong>16.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_BiAfmM"
+      ],
+      "name": "Antojitos",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -520,6 +572,8 @@
     "rich_text_yJ8Nmx",
     "image_banner_FBtwQX",
     "rich_text_j6icx7",
+    "image_banner_M9EjQL",
+    "rich_text_Vg7wa6",
     "main"
   ]
 }
