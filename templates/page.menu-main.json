@@ -340,7 +340,7 @@
       "block_order": [
         "heading_tKUWHf"
       ],
-      "name": "Tacos",
+      "name": "Tacos Banner",
       "settings": {
         "image": "shopify://shop_images/Best_Restaurant_in_South_OC_for_Parties.jpg",
         "image_overlay_opacity": 40,
@@ -388,6 +388,58 @@
         "padding_bottom": 52
       }
     },
+    "image_banner_gNVLec": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tWRemM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enchiladas",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tWRemM"
+      ],
+      "name": "Enchiladas Banner",
+      "settings": {
+        "image": "shopify://shop_images/Best_Place_to_Grab_a_Bite_to_Eat_in_South_OC_in_a_Hurry.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_yJ8Nmx": {
+      "type": "rich-text",
+      "blocks": {
+        "text_TJjHPU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2 salsa verde enchiladas with lettuce, pico de gallo, queso fresco & sour cream.<br/>Served with rice, refried beans, chips & salsa.<br/><strong>Cheese or Chicken  16.99<br/>Shrimp  17.99</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_TJjHPU"
+      ],
+      "name": "Enchiladas",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -412,6 +464,8 @@
     "image_banner_mEYh3k",
     "custom_liquid_ttx4Hp",
     "rich_text_aBTK7H",
+    "image_banner_gNVLec",
+    "rich_text_yJ8Nmx",
     "main"
   ]
 }
