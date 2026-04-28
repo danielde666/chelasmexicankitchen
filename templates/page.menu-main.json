@@ -550,7 +550,7 @@
         "heading_4M9rmP": {
           "type": "heading",
           "settings": {
-            "heading": "Especiales, Sides, and more",
+            "heading": "Especiales, Sides, and Salsas",
             "heading_size": "h1"
           }
         }
@@ -573,20 +573,59 @@
         "show_text_below": true
       }
     },
-    "rich_text_a7GVNd": {
+    "rich_text_qqcQi3": {
       "type": "rich-text",
       "blocks": {
-        "text_neNdn3": {
+        "heading_hHaPJp": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Especiales</strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_c3VDAJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Taquitos</strong><br/>4 rolled taquitos cut in half, with lettuce, sour cream, pico de gallo, guacamole, queso fresco.<br/>Chicken <strong>13.99</strong><br/>Shredded Beef <strong>14.99</strong></p><p><strong>Quesadilla</strong><br/>Flour tortilla, Colby jack cheese, sour cream, guacamole, with a side of chips.<br/>Cheese <strong>11.99</strong><br/>Chicken <strong>13.99</strong><br/>Steak <strong>14.99</strong></p><p><strong>El Macho Nachos</strong><br/>Tortilla chips, refried beans, melted Colby jack cheese, guacamole, jalapeños, sour cream.<br/>Cheese <strong>12.99</strong><br/>Steak <strong>16.99</strong><br/>Chicken or Carnitas <strong>15.99</strong></p><p><strong>Asada Fries (NEW)</strong><br/>Seasoned fries, steak, chipotle crème, pico de gallo, guacamole.<br/><strong>16.99</strong></p>"
+            "text": "<p><strong>Taco Tuesday (All Day)</strong><br/>Any beer (bottled or draft) — <strong>5.00</strong><br/>2 crispy tacos (chicken, potato or carnitas) — <strong>6.50</strong></p><p><strong>Thirsty Thursday (All Day)</strong><br/>Any beer (bottled or draft) — <strong>5.00</strong><br/>2 La Calle tacos (chicken, carnitas or steak) — <strong>6.50</strong></p><p><strong>•</strong></p><p><strong>Happy Hour (Mon, Wed & Fri – 3pm to close)</strong></p><p>Any beer — <strong>5.00<br/></strong>2 fish tacos — <strong>7.00<br/></strong>Bean & cheese burrito — <strong>8.00<br/></strong>2 al pastor tacos — <strong>9.00<br/></strong>Taquitos (3) — <strong>9.00</strong><br/>Bean & cheese nachos. Tortilla chips, refried beans, melted Colby jack cheese, guacamole, jalapenos and sour cream. — <strong>10.00</strong></p>"
           }
         }
       },
       "block_order": [
-        "text_neNdn3"
+        "heading_hHaPJp",
+        "text_c3VDAJ"
       ],
-      "name": "Antojitos",
+      "name": "Especiales",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_EB6ebc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eFMGqQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Chips, Salsa & Sides</strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_3V6BFE": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Family Style Chips, Guac & Salsa</strong><br/>Large chips, 1 pint salsa, 1 pint guacamole.<br/><strong>23.99</strong></p><p>Mini Chip Bag — <strong>0.99</strong><br/>Large Chip Bag — <strong>6.50</strong><br/>Cinnamon Chips — <strong>4.99</strong><br/>Salsa: 1 pint<strong> 9.50</strong> • ½ pint <strong>5.25</strong><br/>Guacamole: 1 pint <strong>11.99</strong> • ½ pint <strong>7.50</strong></p><p><strong>Add-Ons (2 oz – ask for pricing)</strong><br/>Sour cream, guacamole, cheese, jalapeños.<br/>Sides (½ pint – ask for pricing). <br/>Rice, black or refried beans.</p><p><strong>Salsas<br/></strong>2 sides of salsa per order, additional salsa .50 each.</p><p><strong>La Famosa (Medium)</strong> <br/>Our \"chip\" salsa, made from a blend of chiles, onion, cilantro, garlic and tomatoes.<br/><strong>Verde (Mild)</strong> <br/>Made from roasted tomatillos with just a hint of jalapeños & citrus.<br/><strong>Chipotle (Smoky/Medium)</strong> <br/>Made from adobo chipotle peppers, roasted tomatoes & onion for a smoky, spicy perfection.<br/><strong>Habanero (Hot)</strong> <br/>For those who want to feel like they swallowed a flame thrower! Yet, enjoyable.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eFMGqQ",
+        "text_3V6BFE"
+      ],
+      "name": "Sides",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -627,7 +666,8 @@
     "image_banner_qUUnhk",
     "rich_text_Vg7wa6",
     "image_banner_M9EjQL",
-    "rich_text_a7GVNd",
+    "rich_text_qqcQi3",
+    "rich_text_EB6ebc",
     "main"
   ]
 }
